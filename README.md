@@ -36,7 +36,7 @@ E(n) = C · log(n + 1)
 ## Estrutura de Arquivos
 
 ```text
-/global-solution-computational-thinking
+/global-solution-problem-solving-math
   ├── calculo.py
   ├── main.py
   └── README.md
